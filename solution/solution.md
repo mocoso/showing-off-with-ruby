@@ -97,11 +97,9 @@ Image courtesy of [JOBAfunky](http://www.flickr.com/photos/jobafunky/4055955887/
 Image courtesy of [Jared and Corin](http://www.flickr.com/photos/redjar/113716132/)
 
 
-!SLIDE
+!SLIDE full-page-image
 
-# Textmate #
-
-Include a picture
+![Text editor](texteditor.png "Text editor")
 
 
 !SLIDE center
