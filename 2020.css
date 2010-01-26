@@ -1,0 +1,118 @@
+/* The Puritan font is Ben Weiner's http://openfontlibrary.fontly.org/people/benweiner */
+@font-face {
+  font-family: Puritan;
+  src: url("/file/fonts/benweiner_-_Puritan_Regular.otf") format("opentype")
+  }
+
+@font-face {
+  font-family: Puritan;
+  src: url("/file/fonts/benweiner_-_Puritan_Bold.otf") format("opentype");
+  font-weight: bold;
+  }
+
+@font-face {
+  font-family: Puritan;
+  src: url("/file/fonts/benweiner_-_Puritan_Bold_Italic.otf") format("opentype");
+  font-weight: bold;
+  font-style: italic;
+  }
+
+@font-face {
+  font-family: Puritan;
+  src: url("/file/fonts/benweiner_-_Puritan_Italic.otf") format("opentype");
+  font-style: italic;
+  }
+
+body {
+  font-family: Puritan, Helvetica, Arial, sans-serif;
+  font-size: 0.8em;
+}
+
+#preso {
+  margin: 0;
+  padding: 0;
+  max-width: 800px;
+  max-height: 600px;
+}
+
+#footer {
+  /* visibility: hidden; */
+  margin-top: 5px;
+  max-width: 794px;
+  width: 100%;
+}
+
+.slide {
+  border: none;
+}
+
+.slide p {
+  font-size: 2em;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+code {
+  font-size: 0.65em;
+}
+
+h1 {
+  color: red;
+  font-size: 3.2em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 2.5em;
+}
+
+.full-page-image img {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  /* dont enlarge the image more, than its initial resolution */
+  max-width: 800px;
+  max-height: 565px;
+  /* Set the height dynamically depending on the image's current width, keeping the aspect ratio */
+  height: auto;
+}
+
+.full-page-image p {
+  margin: 0 0 0 0;
+}
+
+.full-page-image p:not(:first-child),
+.full-page-image h1,
+.full-page-image h2 {
+  position: relative;
+  z-index: 1;
+  background-image: url('white.png');
+  background-position: top left;
+}
+
+
+.full-page-image p:not(:first-child) {
+  position: relative;
+  opacity: .5;
+  top: -4em;
+  padding: 5px 10px 5px 10px;
+  color: grey;
+  font-size: 0.8em;
+  float: right;
+}
+
+.full-page-image h1 {
+  position: absolute;
+  top: 3em;
+  left: 0px;
+  width: 100%;
+  padding: 10px;
+}
+
+.full-page-image h2 {
+  position: absolute;
+  top: 9em;
+  left: 0px;
+  width: 100%;
+  padding: 10px;
+}
