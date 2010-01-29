@@ -28,17 +28,9 @@ body {
   font-size: 0.8em;
 }
 
-#preso {
-  padding: 0;
-  max-width: 800px;
-  max-height: 600px;
-}
-
 #footer {
   /* visibility: hidden; */
   margin-top: 5px;
-  max-width: 794px;
-  width: 100%;
 }
 
 .slide {
@@ -46,7 +38,7 @@ body {
 }
 
 .slide p {
-  font-size: 2em;
+  font-size: 2.5em;
   margin-left: 1em;
   margin-right: 1em;
 }
@@ -57,21 +49,18 @@ code {
 
 h1 {
   color: red;
-  font-size: 3.2em;
+  font-size: 4em;
   font-weight: bold;
 }
 
 h2 {
-  font-size: 2.5em;
+  font-size: 3em;
 }
 
-.full-page-image img {
+.full-page-image img:first-child {
   margin: 0;
   padding: 0;
   width: 100%;
-  /* dont enlarge the image more, than its initial resolution */
-  max-width: 800px;
-  max-height: 565px;
   /* Set the height dynamically depending on the image's current width, keeping the aspect ratio */
   height: auto;
 }
@@ -96,13 +85,13 @@ h2 {
   top: -4em;
   padding: 5px 10px 5px 10px;
   color: grey;
-  font-size: 0.8em;
+  font-size: 1em;
   float: right;
 }
 
 .full-page-image h1 {
   position: absolute;
-  top: 3em;
+  top: 4em;
   left: 0px;
   width: 100%;
   padding: 10px;
