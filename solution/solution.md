@@ -5,6 +5,11 @@
 Image courtesy of [purplemattfish](http://www.flickr.com/photos/purplemattfish/3299198538/)
 
 
+!SLIDE
+
+# &lt;HTML /> #
+
+
 !SLIDE full-page-image
 
 ![Scott Chacon](scott.jpg "Scott Chacon")
