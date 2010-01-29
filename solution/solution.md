@@ -102,11 +102,11 @@ Image courtesy of [JOBAfunky](http://www.flickr.com/photos/jobafunky/4055955887/
 
 !SLIDE full-page-image
 
-![Web](spiderweb.jpg "Web")
+![Web](internet.jpg "Web")
 
-Image courtesy of [Jared and Corin](http://www.flickr.com/photos/redjar/113716132/)
+Image courtesy of [Seb Joguet](http://www.flickr.com/photos/sebjoguet/162330937/)
 
 
 !SLIDE center
 
-<img src="opera.png" height="512" width="512" alt="Opera" />
+<img src="opera.png" height="700" width="700" alt="Opera" />
