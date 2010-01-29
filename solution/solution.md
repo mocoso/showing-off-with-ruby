@@ -97,14 +97,14 @@ Image courtesy of [JOBAfunky](http://www.flickr.com/photos/jobafunky/4055955887/
 
 !SLIDE full-page-image
 
-![Web](spiderweb.jpg "Web")
-
-Image courtesy of [Jared and Corin](http://www.flickr.com/photos/redjar/113716132/)
+![Text editor](texteditor.png "Text editor")
 
 
 !SLIDE full-page-image
 
-![Text editor](texteditor.png "Text editor")
+![Web](spiderweb.jpg "Web")
+
+Image courtesy of [Jared and Corin](http://www.flickr.com/photos/redjar/113716132/)
 
 
 !SLIDE center
