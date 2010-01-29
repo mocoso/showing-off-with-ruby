@@ -6,7 +6,8 @@ Image courtesy of [rappensuncle](http://www.flickr.com/photos/rappensuncle/14668
 
 # Showing off with Ruby #
 
-## by Joel Chippindale ##
+## Joel Chippindale ##
+
 
 !SLIDE full-page-image
 
