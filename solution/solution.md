@@ -2,7 +2,7 @@
 
 ![Exploded](exploded.jpg "Exploded")
 
-AWAITING PERMISSION Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/purplemattfish/3299198538/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/purplemattfish/">purplemattfish</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/">(CC)</a></span>
+Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/purplemattfish/3299198538/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/purplemattfish/">purplemattfish</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/">(CC)</a></span>
 
 
 !SLIDE
@@ -21,7 +21,7 @@ Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://
 
 ![Ruby](ruby.jpg "ruby")
 
-AWAITING PERMISSION Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/jobafunky/4055955887/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/jobafunky/">JOBAfunky</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/">(CC)</a></span>
+Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/jobafunky/4055955887/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/jobafunky/">JOBAfunky</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/">(CC)</a></span>
 
 
 !SLIDE
