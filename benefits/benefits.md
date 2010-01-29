@@ -1,5 +1,10 @@
 !SLIDE full-page-image
 
+![Text editor](texteditor.png "Text editor")
+
+
+!SLIDE full-page-image
+
 ![Have you checked your files in?](checked_in.jpg "With showoff you can")
 
 Image courtesy of [Simbolism](http://www.flickr.com/people/simbolism/)
@@ -46,11 +51,6 @@ Image courtesy of [Simbolism](http://www.flickr.com/people/simbolism/)
         nextStep();
       }, 20000);
     }
-
-
-!SLIDE full-page-image
-
-![Text editor](texteditor.png "Text editor")
 
 
 !SLIDE full-page-image
