@@ -81,10 +81,10 @@ h2 {
 
 .full-page-image p:not(:first-child) {
   position: relative;
-  opacity: .5;
+  opacity: .6;
   top: -4em;
-  padding: 5px 10px 5px 10px;
-  color: grey;
+  padding: 0.4em 0.9em 0.4em 0.9em;
+  color: dark-grey;
   font-size: 1em;
   float: right;
 }
@@ -99,7 +99,7 @@ h2 {
 
 .full-page-image h2 {
   position: absolute;
-  top: 9em;
+  top: 10em;
   left: 0px;
   width: 100%;
   padding: 10px;
