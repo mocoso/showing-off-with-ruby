@@ -2,7 +2,7 @@
 
 ![Exploded](exploded.jpg "Exploded")
 
-Image courtesy of [purplemattfish](http://www.flickr.com/photos/purplemattfish/3299198538/)
+AWAITING PERMISSION Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/purplemattfish/3299198538/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/purplemattfish/">purplemattfish</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/">(CC)</a></span>
 
 
 !SLIDE
@@ -14,14 +14,14 @@ Image courtesy of [purplemattfish](http://www.flickr.com/photos/purplemattfish/3
 
 ![Scott Chacon](scott.jpg "Scott Chacon")
 
-Image courtesy of [Fraser Speirs](http://www.flickr.com/photos/fraserspeirs/3395523242/)
+Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/fraserspeirs/3395523242/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/fraserspeirs/">Fraser Speirs</a> <a rel="license" href="http://creativecommons.org/licenses/by/2.0/">(CC)</a></span>
 
 
 !SLIDE full-page-image
 
 ![Ruby](ruby.jpg "ruby")
 
-Image courtesy of [JOBAfunky](http://www.flickr.com/photos/jobafunky/4055955887/)
+AWAITING PERMISSION Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/jobafunky/4055955887/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/jobafunky/">JOBAfunky</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/">(CC)</a></span>
 
 
 !SLIDE
@@ -104,7 +104,7 @@ Image courtesy of [JOBAfunky](http://www.flickr.com/photos/jobafunky/4055955887/
 
 ![Web](internet.jpg "Web")
 
-Image courtesy of [Seb Joguet](http://www.flickr.com/photos/sebjoguet/162330937/)
+Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/sebjoguet/162330937/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/sebjoguet/">Seb Joguet</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc/2.0/">(CC)</a></span>
 
 
 !SLIDE center
