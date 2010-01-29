@@ -1,6 +1,6 @@
 !SLIDE full-page-image
 
-![Have you checked your files in?](checked_in.jpg "Have you checked your files in?")
+![Have you checked your files in?](checked_in.jpg "With showoff you can")
 
 Image courtesy of [Simbolism](http://www.flickr.com/people/simbolism/)
 

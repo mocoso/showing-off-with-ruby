@@ -1,6 +1,6 @@
 !SLIDE full-page-image
 
-![Exploded](exploded.jpg "Exploded")
+![All the bits of an alternator and a lens laid out on a table](exploded.jpg "We like to take things apart and improve them")
 
 Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/purplemattfish/3299198538/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/purplemattfish/">purplemattfish</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/">(CC)</a></span>
 
@@ -12,14 +12,14 @@ Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://
 
 !SLIDE full-page-image
 
-![Scott Chacon](scott.jpg "Scott Chacon")
+![Scott Chacon](scott.jpg "Scott Chacon of Github fame wrote showoff")
 
 Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/fraserspeirs/3395523242/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/fraserspeirs/">Fraser Speirs</a> <a rel="license" href="http://creativecommons.org/licenses/by/2.0/">(CC)</a></span>
 
 
 !SLIDE full-page-image
 
-![Ruby](ruby.jpg "ruby")
+![Big ruby on a table](ruby.jpg "It's a Sinatra application")
 
 Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/jobafunky/4055955887/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/jobafunky/">JOBAfunky</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/">(CC)</a></span>
 
