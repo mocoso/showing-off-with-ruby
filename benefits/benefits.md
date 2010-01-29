@@ -1,8 +1,8 @@
-!SLIDE
+!SLIDE full-page-image
 
-# In source control #
+![Have you checked your files in?](checked_in.jpg "Have you checked your files in?")
 
-"Have you checked your files in note like this" http://www.flickr.com/photos/simbolism/3854554155/
+Image courtesy of [Simbolism](http://www.flickr.com/people/simbolism/)
 
 
 !SLIDE
