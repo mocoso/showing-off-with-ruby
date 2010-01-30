@@ -12,9 +12,9 @@
 
 !SLIDE full-page-image
 
-![Lock](lock.jpg "Lock")
+![No escape](no_escape.jpg "It feels like your hands are bound")
 
-Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/ravages/2852578947/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/ravages/">Chandrachoodan Gopalakrishnan</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/">(CC)</a></span>
+Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/62337512@N00/3904116563/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/62337512@N00/">Anthony Kelly</a> <a rel="license" href="http://creativecommons.org/licenses/by/2.0/">(CC)</a></span>
 
 
 !SLIDE full-page-image
