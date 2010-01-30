@@ -54,7 +54,7 @@ h1 {
 }
 
 h2 {
-  font-size: 3em;
+  font-size: 2.5em;
 }
 
 .full-page-image img:first-child {
@@ -91,18 +91,19 @@ h2 {
 
 .full-page-image h1 {
   position: absolute;
-  top: 4em;
+  top: 1em;
   left: 0px;
   width: 100%;
-  padding: 10px;
+  padding: 0.3em 0 0.2em 0;
+  text-transform: uppercase;
 }
 
 .full-page-image h2 {
   position: absolute;
-  top: 10em;
+  top: 3.9em;
   left: 0px;
   width: 100%;
-  padding: 10px;
+  padding: 0.1em 0 0.3em 0;
 }
 
 .credits p:last-child {
