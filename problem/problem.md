@@ -14,4 +14,4 @@ Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://
 
 ![A frustrated man](frustration.jpg "No more")
 
-AWAITING PERMISSION Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/corneveaux/3248566797/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/corneveaux/">Jason Corneveaux</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/">(CC)</a></span>
+Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/corneveaux/3248566797/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/corneveaux/">Jason Corneveaux</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/">(CC)</a></span>
