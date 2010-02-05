@@ -58,8 +58,3 @@ Image courtesy of [Simbolism](http://www.flickr.com/people/simbolism/)
 ![Web](internet.jpg "Web")
 
 Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/sebjoguet/162330937/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/sebjoguet/">Seb Joguet</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc/2.0/">(CC)</a></span>
-
-
-!SLIDE center
-
-<img src="opera.png" height="700" width="700" alt="Opera" />

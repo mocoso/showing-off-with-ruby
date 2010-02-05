@@ -11,6 +11,11 @@
 And open http://localhost:9090 in your browser
 
 
+!SLIDE center
+
+<img src="opera.png" height="700" width="700" alt="Opera" />
+
+
 !SLIDE full-page-image
 
 ![Man with lots of colored test tubes](experimental.jpg "It's still very experimental")
