@@ -11,9 +11,9 @@
 And open http://localhost:9090 in your browser
 
 
-!SLIDE center
+!SLIDE full-page-image
 
-<img src="opera.png" height="700" width="700" alt="Opera" />
+![Plainview opening shot](plainview.png "Full screen browser")
 
 
 !SLIDE full-page-image
