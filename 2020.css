@@ -70,6 +70,12 @@ h2 {
   height: auto;
 }
 
+.full-page-image img.cc {
+  width: 1.2em;
+  height: 1.2em;
+  vertical-align: middle;
+}
+
 .full-page-image p {
   margin: 0 0 0 0;
 }
