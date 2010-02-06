@@ -24,14 +24,19 @@
   }
 
 body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.9em;
+}
+
+h1, h2, h3, h4, h5, h6 {
   font-family: Puritan, Helvetica, Arial, sans-serif;
-  font-size: 0.8em;
 }
 
 #footer {
   /* visibility: hidden; */
   margin-top: 5px;
 }
+
 
 .slide {
   border: none;
@@ -72,7 +77,6 @@ h2 {
 .full-page-image p:not(:first-child),
 .full-page-image h1,
 .full-page-image h2 {
-  position: relative;
   z-index: 1;
   background-image: url('white.png');
   background-position: top left;
@@ -100,13 +104,16 @@ h2 {
 
 .full-page-image h2 {
   position: absolute;
-  top: 3.9em;
+  top: 4em;
   left: 0px;
   width: 100%;
   padding: 0.1em 0 0.3em 0;
 }
 
+.credits {
+  font-size: 0.8em;
+}
+
 .credits p:last-child {
   float: right;
-}
 }
