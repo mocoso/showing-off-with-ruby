@@ -9,7 +9,7 @@ Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://
 
 # Credits #
 
-See individual images for credits and permissions for reuse.
+See individual images for credits.
 
 Thanks to [Ben Weiner](http://readingtype.org.uk/type/puritan.html) for use of the Puritan typeface. 
 
