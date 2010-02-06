@@ -29,30 +29,23 @@ function setUpPechaKucha()
 // See http://www.pecha-kucha.org/ for more details
 function pechaKucha()
 {
-  pechaKuchaRunning = true
-  $("#pechaKuchaInfo").text(pechaKuchaStatus(0));
-  if (pechaKuchaRunning) {
+  if (!pechaKuchaRunning) {
+    pechaKuchaRunning = true
+    $("#pechaKuchaInfo").text(pechaKuchaStatus(0));
     var seconds = 0;
     setInterval(function() {
       seconds++;
-      $("#pechaKuchaInfo").text(pechaKuchaStatus(seconds))
+      $("#pechaKuchaInfo").text(pechaKuchaStatus(seconds));
       if (seconds == 20) {
         seconds = 0;
         nextStep();
       }
     }, 1000);
-}
+  }
 }
 
 function pechaKuchaStatus(seconds) {
-  if (pechaKuchaRunning) {
-    if (seconds > 14) {
-      var transitionCountDown = ' (' + (20 - seconds) + ')';
-    } else {
-      var transitionCountDown = '';
-    }
-    return ' - 20x20 mode' + transitionCountDown;
-  }
+  return ' - 20x20 mode (' + (20 - seconds) + 's)';
 }
 
 $(function(){
