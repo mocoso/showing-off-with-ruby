@@ -5,16 +5,16 @@
 Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/purplemattfish/3299198538/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/purplemattfish/">purplemattfish</a> <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/">(CC)</a></span>
 
 
-!SLIDE
-
-# &lt;HTML /> #
-
-
 !SLIDE full-page-image
 
 ![Scott Chacon](scott.jpg "Scott Chacon of Github fame wrote showoff")
 
 Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/fraserspeirs/3395523242/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/fraserspeirs/">Fraser Speirs</a> <a rel="license" href="http://creativecommons.org/licenses/by/2.0/">(CC)</a></span>
+
+
+!SLIDE
+
+# &lt;HTML /> #
 
 
 !SLIDE full-page-image
