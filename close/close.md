@@ -21,4 +21,4 @@ Puritan font - <http://readingtype.org.uk/type/puritan.html>
 
 See individual images for links and credits
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/2.0/uk/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/2.0/uk/88x31.png" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/2.0/uk/">![Creative Commons License](cc.png "Creative Commons License")</a>
