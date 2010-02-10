@@ -1,0 +1,20 @@
+# Showing off with Ruby #
+
+This is a 20x20 talk about the [showoff gem](http://github.com/schacon/showoff)
+that I gave at [LRUG's February meeting](http://lrug.org/meetings/2010/01/21/february-2010-meeting/).
+
+It's mostly pretty pictures so is probably only of any use as an example of a presentation written
+with showoff.
+
+You can view this presentation if you install version 0.0.5 (or perhaps later) of the showoff gem.
+
+    $ gem install showoff
+    $ git clone git://github.com/mocoso/showing-off-with-ruby.git
+    $ cd showing-off-with-ruby
+    $ showoff serve
+
+And then open localhost:9090 in your browser.
+
+Press 'p' to get the slides to change automatically every 20 seconds.
+
+This presentations is released under an [attribution and non-commercial Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/uk/).
