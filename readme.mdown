@@ -2,9 +2,7 @@
 
 This is a 20x20 talk about the [showoff gem](http://github.com/schacon/showoff)
 that I gave at [LRUG's February meeting](http://lrug.org/meetings/2010/01/21/february-2010-meeting/).
-
-It's mostly pretty pictures so is probably only of any use as an example of a presentation written
-with showoff.
+The talk was [recorded here](http://skillsmatter.com/podcast/ajax-ria/show-off-a-ruby-based-html-presentation-software) if you want to watch it.
 
 You can view this presentation if you install version 0.0.5 (or perhaps later) of the showoff gem.
 
