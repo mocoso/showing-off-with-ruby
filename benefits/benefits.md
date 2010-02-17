@@ -45,7 +45,7 @@ Image courtesy of [Simbolism](http://www.flickr.com/people/simbolism/)
 # Customisable #
 
     @@@ javascript
-    function pechaKucha()
+    function twentyTwenty()
     {
       setInterval(function() {
         nextStep();
